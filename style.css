@@ -1,0 +1,71 @@
+body {
+  background-image: url("images/pattern-background-desktop.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: cornflowerblue;
+}
+
+#container {
+  box-sizing: border-box;
+  background-color: white;
+  width: 350px;
+  height: 600px;
+  margin: auto;
+  border-radius: 15px;
+  margin-top: 10%;
+  text-align: center;
+}
+#imagem1 {
+  border-radius: 15px 15px 0px 0px;
+}
+h1 {
+  margin-top: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+p {
+  color: dimgrey;
+
+  padding: 15px;
+}
+
+.subcontainer {
+  display: flex;
+  background-color: rgba(223, 219, 219, 0.411);
+  width: 280px;
+  height: 80px;
+  margin-left: 10%;
+  border-radius: 10px;
+}
+.iconmusic {
+  margin: 15px;
+}
+
+h3 {
+  font-size: smaller;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+}
+.p2 {
+  padding: 0;
+}
+
+.link {
+  margin-left: 50px;
+  margin-top: 10%;
+}
+
+.bot {
+  margin-top: 50px;
+  background-color: blue;
+  color: white;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.bot2 {
+  margin-top: 10px;
+  background-color: none;
+  font-style: normal;
+}
